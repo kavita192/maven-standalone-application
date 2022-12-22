@@ -19,8 +19,8 @@
 
 	<properties>
 		<sonar.host.url>http://54.219.163.205:9000/</sonar.host.url>
-		<sonar.login>admin</sonar.login>
-		<sonar.password>admin123</sonar.password>
+		<sonar.login>squ_964c93f1ade2ae3cbc6cdf1ecd0b5fe55be9169d</sonar.login>
+		<!-- <sonar.password>admin123</sonar.password> -->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
